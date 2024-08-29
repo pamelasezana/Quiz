@@ -18,4 +18,8 @@ Este é um projeto simples de um quiz de perguntas desenvolvido usando React. O 
 
 1. **Clone o repositório** para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/quiz-react.git
+   git clone https://github.com/pamelasezana/Quiz.git
+
+
+🤝 Contribua
+Sinta-se à vontade para fazer um fork deste projeto, submeter issues ou enviar pull requests.
